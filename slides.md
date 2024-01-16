@@ -131,7 +131,7 @@ hideInToc: true
   <div>
     <h2>Netlify Deployment</h2>
     <ul>
-      <li> Sign in to Netlify and click "New Site from Drag and Drop.</li>
+      <li> Sign in to Netlify and click "Add new Site" and "Deploy Manually"</li>
       <li> Drag your project folder or files into the designated area.</li>
       <li>Netlify will automatically deploy your site.</li>
       <li>
